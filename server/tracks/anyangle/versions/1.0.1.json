@@ -1,0 +1,108 @@
+{
+  "Track": "anyangle",
+  "Path": "versions/1.0.1",
+  "Version": "1.0.1",
+  "Tag": "v1.0.1",
+  "GIT": "https://github.com/gppc-dev/startkit-anyangle/releases/tag/v1.0.1",
+  "FilesImmutable": [
+    {
+      "Path": "Entry.h",
+      "Size": 877,
+      "SHA256": "d724db3387a7e5c97f7d36ae003371dfd2e787780c90abeee683a635272976ad"
+    },
+    {
+      "Path": "GPPC.h",
+      "Size": 103,
+      "SHA256": "2cdb05903d47c202a1ee349a652c2ada51064561163ef0f7d06cd9685f143e7d"
+    },
+    {
+      "Path": "main.cpp",
+      "Size": 6091,
+      "SHA256": "5912707a09786800d5878e7fc58a566005f0c77f6fcd565678055f7d1fd2ca25"
+    },
+    {
+      "Path": "ScenarioLoader.cpp",
+      "Size": 1720,
+      "SHA256": "ca00a84e5113110aee603615425785b9c4e6e4ce70cbf8bf4cd2e2758d4a3df5"
+    },
+    {
+      "Path": "ScenarioLoader.h",
+      "Size": 1866,
+      "SHA256": "f48e0bc4a5078e6f5bb2d87629c44b55306faa8cb77736558ad28937772c97ca"
+    },
+    {
+      "Path": "Timer.cpp",
+      "Size": 1872,
+      "SHA256": "ec7f2fe690607fddda18d3c40e5168be778f811c64303060623ad434056c4c3b"
+    },
+    {
+      "Path": "Timer.h",
+      "Size": 1258,
+      "SHA256": "69409f044ba521d7d1d617909791e8ef0b09c72d5f99c1f41ab6ffc38801eab1"
+    },
+    {
+      "Path": "validator/Box.hpp",
+      "Size": 7666,
+      "SHA256": "8053ceb8f135f185c46dcfa9ba3486a10232d924ff00cf8f17cdac08e5a6b54f"
+    },
+    {
+      "Path": "validator/BresenhamRay.hpp",
+      "Size": 11737,
+      "SHA256": "5154ecced49e26136abb01df2f61db0caecbec99fe3e315d87e60b7550501f9f"
+    },
+    {
+      "Path": "validator/Point.hpp",
+      "Size": 42620,
+      "SHA256": "f52b0381345a773b43e8ae255813c7d8f57f47eb366f360b493a57cb235bf4eb"
+    },
+    {
+      "Path": "validator/ValidatePath.hpp",
+      "Size": 899,
+      "SHA256": "1be332fe7385315b091d6f2cccfe722bea446280056f800ac81df9506feb4af1"
+    },
+    {
+      "Path": "validator/bit_table.hpp",
+      "Size": 7461,
+      "SHA256": "a17a0dbbd704a4ac89714606721f04dd82a445f830d9c23741234151183855e6"
+    },
+    {
+      "Path": "validator/frac.hpp",
+      "Size": 4363,
+      "SHA256": "8d8bcc084f4052d5467e1f0cf515e4ca885c40ceedecf31c3c62082cbd49f620"
+    },
+    {
+      "Path": "validator/inx.hpp",
+      "Size": 41262,
+      "SHA256": "18a30749bfe254186c6fc93c74795b20137e075356220676a879f9ab058a5a41"
+    }
+  ],
+  "FilesMutable": [
+    {
+      "Path": "Entry.cpp",
+      "Size": 4001,
+      "SHA256": "5f77d5bb9f9b0d36ef7e2e90974df194ce38399bd640ee1811a9eaeb4bf4afa2"
+    },
+    {
+      "Path": "compile.sh",
+      "Size": 72,
+      "SHA256": "1d739e65d78fe4f8c861511f3aaa1037d792734e04b600c35f556cea8caaf9e9"
+    },
+    {
+      "Path": "apt.txt",
+      "Size": 35,
+      "SHA256": "5c86e375e43724017c12c4e0be67607d76bbcb02dfe024671c90d725891e7ee8"
+    }
+  ],
+  "FilesTracking": [
+    {
+      "Path": "LICENSE",
+      "Size": 1093,
+      "SHA256": "3fc91c4e3f20be97831714a0fd32b7361020c495b6b0c8c5bd4961d04875dc01"
+    }
+  ],
+  "FileVersion": {
+    "Path": "version.txt",
+    "Size": 6,
+    "SHA256": "44e161e4495cac2cf7858043e9e6418e9579f0ddcfae826f9a372622968ce066"
+  }
+}

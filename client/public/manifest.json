@@ -1,0 +1,15 @@
+{
+  "short_name": "League of Robot Runner",
+  "name": "The League of Robot Runners, sponsored by Amazon Robotics, is a competition where participants tackle one of the most complex optimization challenges: the coordination of multiple moving robots, which is important for industrial applications such as warehouse logistics, transportation and advanced manufacturing.",
+  "icons": [
+    {
+      "src": "robot_runners.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,8 @@
+{
+	"Name": "classic",
+	"GIT": "https://github.com/gppc-dev/startkit-classic",
+	"FilesImmutable": ["Entry.h", "GPPC.h", "main.cpp", "ScenarioLoader.cpp", "ScenarioLoader.h", "Timer.cpp", "Timer.h", "validator/*.hpp"],
+	"FilesMutable": ["Entry.cpp", "compile.sh", "apt.txt"],
+	"FilesTracking": ["LICENSE", "CONTRIBUTERS"],
+	"FileVersion": "version.txt"
+}

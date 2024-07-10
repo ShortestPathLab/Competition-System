@@ -1,0 +1,78 @@
+{
+  "Track": "classic",
+  "Path": "versions/1.0.0",
+  "Version": "1.0.0",
+  "Tag": "v1.0.0",
+  "GIT": "https://github.com/gppc-dev/startkit-classic/releases/tag/v1.0.0",
+  "FilesImmutable": [
+    {
+      "Path": "Entry.h",
+      "Size": 877,
+      "SHA256": "d724db3387a7e5c97f7d36ae003371dfd2e787780c90abeee683a635272976ad"
+    },
+    {
+      "Path": "GPPC.h",
+      "Size": 105,
+      "SHA256": "393d6dbace8c12d066abad8c625181282d0a1951818208fb5092743c6b0d991b"
+    },
+    {
+      "Path": "main.cpp",
+      "Size": 6263,
+      "SHA256": "1de1d780cd49f35eedfcc65d1cbdc4233747e9d47bb2251d35368a3b1f74550f"
+    },
+    {
+      "Path": "ScenarioLoader.cpp",
+      "Size": 1747,
+      "SHA256": "3a0b5a150610a9ce39e4320381e66d39d3d4cb65c7ce3e8af52fa70dde741f58"
+    },
+    {
+      "Path": "ScenarioLoader.h",
+      "Size": 1870,
+      "SHA256": "b1f79478bdfc2128b9291d466329b21250b99515a7b24d20c2e7d2a0d491973b"
+    },
+    {
+      "Path": "Timer.cpp",
+      "Size": 1892,
+      "SHA256": "e6d9b24104b8f6c01bebad6798b6382c483818a823e2fe365e984b82131699bc"
+    },
+    {
+      "Path": "Timer.h",
+      "Size": 1278,
+      "SHA256": "88f270256d38141275f7f1695de0c038b17de36f001f3b4cb6803627f49ad642"
+    },
+    {
+      "Path": "validator/ValidatePath.hpp",
+      "Size": 3271,
+      "SHA256": "7afef0a70c1d49f2c844f3ea254443263e22f106972debca5676f0b097ec7a0d"
+    }
+  ],
+  "FilesMutable": [
+    {
+      "Path": "Entry.cpp",
+      "Size": 3583,
+      "SHA256": "3c23c782e2f339a010bc6f545607e4f40889a2a2451ea7c154a2e6d1b4932d9f"
+    },
+    {
+      "Path": "compile.sh",
+      "Size": 72,
+      "SHA256": "1d739e65d78fe4f8c861511f3aaa1037d792734e04b600c35f556cea8caaf9e9"
+    },
+    {
+      "Path": "apt.txt",
+      "Size": 35,
+      "SHA256": "5c86e375e43724017c12c4e0be67607d76bbcb02dfe024671c90d725891e7ee8"
+    }
+  ],
+  "FilesTracking": [
+    {
+      "Path": "LICENSE",
+      "Size": 1093,
+      "SHA256": "3fc91c4e3f20be97831714a0fd32b7361020c495b6b0c8c5bd4961d04875dc01"
+    }
+  ],
+  "FileVersion": {
+    "Path": "version.txt",
+    "Size": 6,
+    "SHA256": "59854984853104df5c353e2f681a15fc7924742f9a2e468c29af248dce45ce03"
+  }
+}

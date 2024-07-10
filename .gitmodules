@@ -1,0 +1,3 @@
+[submodule "examples/gppc2021"]
+	path = examples/gppc2021
+	url = git@bitbucket.org:eggeek_edu/gppc2021.git
