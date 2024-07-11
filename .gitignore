@@ -30,3 +30,6 @@ emails.txt
 submission_details_test.csv
 virtual_best.md
 submission_details.csv
+
+server/tracks
+server/utils
